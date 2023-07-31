@@ -14,6 +14,18 @@
 
 ### Features of the app
 
+<ul>
+  <li>
+    `Face Recognition` : This feature is meant for patients with early stage memory disorders. First, either the patient or their caretaker has to add a new person into the model. Then when the patient views that person using the app, in real time, that person’s name and relation to the patient is displayed.
+  </li>
+  <li>
+    Hieroglyphic Doodle Recognizer: Draw doodles of hieroglyphs and translates them into English characters.
+  </li>
+  <li>
+    Hieroglyphic Word Recognizer: Captures a video feed of hieroglyphs and identifies the word they represent.
+  </li>
+</ul>
+
 A Ruby script that colorizes the `ls` output with color and icons. Here are the screenshots of working example on an iTerm2 terminal (Mac OS), `oh-my-zsh` with `powerlevel9k` theme and `powerline nerd-font + awesome-config` font with the `Solarized Dark` color theme.
 
  ![image](https://user-images.githubusercontent.com/17109060/32149040-04f3125c-bd25-11e7-8003-66fd29bc18d4.png)
