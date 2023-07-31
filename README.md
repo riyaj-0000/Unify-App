@@ -1,7 +1,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://www.linkedin.com/in/riya-joseph-67314b213)
 
-![image](output/output1.png)
-
 <h1 align="center">Unify-App</h1>
 
 <p align="center">
@@ -22,6 +20,8 @@
     <br>
     <br>
     <div align='center'>
+      
+![image](output/output1.png)
       <img src="output/output1.png" width="50%">
     </div>
   </li>
