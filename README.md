@@ -17,6 +17,7 @@
 <ul>
   <li>
     <b>Face Recognition</b>: This feature is meant for patients with early stage memory disorders. First, either the patient or their caretaker has to add a new person into the model. Then when the patient views that person using the app, in real time, that person’s name and relation to the patient is displayed.
+    ![Face Recognition](https://github.com/riyaj-0000/Unify-App/blob/main/output/output1.png)
   </li>
   <li>
     Hieroglyphic Doodle Recognizer: Draw doodles of hieroglyphs and translates them into English characters.
