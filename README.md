@@ -17,6 +17,7 @@
 <ul>
   <li>
     <b>Face Recognition</b>: This feature is meant for patients with early stage memory disorders. First, either the patient or their caretaker has to add a new person into the model. Then when the patient views that person using the app, in real time, that person’s name and relation to the patient is displayed.
+    <img src="output/output1.png">
   </li>
   <li>
     Hieroglyphic Doodle Recognizer: Draw doodles of hieroglyphs and translates them into English characters.
@@ -25,7 +26,6 @@
     Hieroglyphic Word Recognizer: Captures a video feed of hieroglyphs and identifies the word they represent.
   </li>
 </ul>
-    ![Face Recognition](https://github.com/riyaj-0000/Unify-App/blob/main/output/output1.png)
 
 A Ruby script that colorizes the `ls` output with color and icons. Here are the screenshots of working example on an iTerm2 terminal (Mac OS), `oh-my-zsh` with `powerlevel9k` theme and `powerline nerd-font + awesome-config` font with the `Solarized Dark` color theme.
 
