@@ -3,7 +3,7 @@
 <h1 align="center">Unify-App</h1>
 
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=App+for+Geriatric+and+Cognitive+Disabilities&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=App+for+Geriatric+&+Cognitive+Disabilities&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
@@ -88,5 +88,15 @@ The system of user which is a `smart phone` is expected to have the following fe
   <li>Jupyter Notebook</li>
   <li>Flutter</li>
 </ul>
+
+#### Connect with me
+<i>Follow me on the web:</i><br>
+
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:josephriya2001@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![GitHub Riya](https://img.shields.io/github/followers/anmolpant?label=follow&style=social)](https://github.com/riyaj-0000)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-joseph-67314b213/)
+
+<br>
+<br>
 
 [(Back to top)](#Unify-App)
