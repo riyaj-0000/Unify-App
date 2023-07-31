@@ -20,9 +20,8 @@
     <br>
     <br>
     <div align='center'>
-      
-![image](output/output1.png)
-      <img src="output/output1.png" width="50%">
+    ![image](output/output1.png)
+    <img src="output/output1.png" width="50%">
     </div>
   </li>
   <br>
