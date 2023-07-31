@@ -1,6 +1,6 @@
 <h1 align="center">Unify-App</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Application+for+Geriatric+and+Cognitive+Disabilities&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=App+for+Geriatric+and+Cognitive+Disabilities&center=true&width=500&height=50"></a>
 <!-- </p>
 # Unify-App
 Application for Geriatric and Cognitive Disabilities
