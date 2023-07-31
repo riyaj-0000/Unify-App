@@ -95,8 +95,3 @@ The system of user which is a `smart phone` is expected to have the following fe
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:josephriya2001@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![GitHub Riya](https://img.shields.io/github/followers/anmolpant?label=follow&style=social)](https://github.com/riyaj-0000)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-joseph-67314b213/)
-
-<br>
-<br>
-
-[(Back to top)](#Unify-App)
