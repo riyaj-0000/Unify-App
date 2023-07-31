@@ -9,6 +9,7 @@
 <p align="center">
   <em>
     This is a mobile application developed to help people who have <b>geriatric</b> and <b>cognitive disabilities</b>. The app would be helpful for the senior citizens by guiding them to live close to normal life by utilizing the features of the app.
+  </em>
 </p>
 
 ### Features of the app
