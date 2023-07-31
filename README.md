@@ -1,6 +1,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://www.linkedin.com/in/riya-joseph-67314b213)
 
-![image](https://user-images.githubusercontent.com/17109060/32149040-04f3125c-bd25-11e7-8003-66fd29bc18d4.png)
+![image](output/output1.png)
 
 <h1 align="center">Unify-App</h1>
 
