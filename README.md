@@ -1,4 +1,5 @@
-[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://www.linkedin.com/in/riya-joseph-67314b213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBfo4eMSISGSxWskjQyuryA%3D%3D)
+[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://www.linkedin.com/in/riya-joseph-67314b213)
+
 <h1 align="center">Unify-App</h1>
 
 <p align="center">
