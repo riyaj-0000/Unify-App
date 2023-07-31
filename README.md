@@ -3,7 +3,7 @@
 <h1 align="center">Unify-App</h1>
 
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=App+for+Geriatric+\&+Cognitive+Disabilities&center=true&width=500&height=50"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=An+app+for+Geriatric+and+Cognitive+Disabilities" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
